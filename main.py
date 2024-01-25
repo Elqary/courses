@@ -20,5 +20,5 @@ def download_video_with_progress(url, save_path):
 
 # استخدم الدالة مع الرابط المحدد والمسار الذي تريد حفظ الفيديو فيه
 video_url = "رابط الفيديو"
-save_path = "المسار/الكامل/للملف/المحفوظ"
+save_path = "Courses/Lives"
 download_video_with_progress(video_url, save_path)
